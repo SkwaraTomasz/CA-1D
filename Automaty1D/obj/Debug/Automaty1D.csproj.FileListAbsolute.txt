@@ -1,0 +1,10 @@
+C:\Users\Tomasz\Desktop\Nauka\modelowanie\c\Automaty1D\Automaty1D\bin\Debug\Automaty1D.exe.config
+C:\Users\Tomasz\Desktop\Nauka\modelowanie\c\Automaty1D\Automaty1D\bin\Debug\Automaty1D.exe
+C:\Users\Tomasz\Desktop\Nauka\modelowanie\c\Automaty1D\Automaty1D\bin\Debug\Automaty1D.pdb
+C:\Users\Tomasz\Desktop\Nauka\modelowanie\c\Automaty1D\Automaty1D\obj\Debug\Automaty1D.csprojResolveAssemblyReference.cache
+C:\Users\Tomasz\Desktop\Nauka\modelowanie\c\Automaty1D\Automaty1D\obj\Debug\Automaty1D.Form1.resources
+C:\Users\Tomasz\Desktop\Nauka\modelowanie\c\Automaty1D\Automaty1D\obj\Debug\Automaty1D.Properties.Resources.resources
+C:\Users\Tomasz\Desktop\Nauka\modelowanie\c\Automaty1D\Automaty1D\obj\Debug\Automaty1D.csproj.GenerateResource.Cache
+C:\Users\Tomasz\Desktop\Nauka\modelowanie\c\Automaty1D\Automaty1D\obj\Debug\Automaty1D.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz\Desktop\Nauka\modelowanie\c\Automaty1D\Automaty1D\obj\Debug\Automaty1D.exe
+C:\Users\Tomasz\Desktop\Nauka\modelowanie\c\Automaty1D\Automaty1D\obj\Debug\Automaty1D.pdb
